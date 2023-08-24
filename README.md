@@ -1,5 +1,5 @@
 #  🖐 Hi there!
-> Me chamo Marcele e moro atualmente em Palmas/TO. Sou formada em arquitetura mas sempre tive interesse por tecnologia. Atualmente, tenho estudado para minha transição de carreira almejando uma primeira oportunidade para trabalhar com Front-end!
+Me chamo Marcele e moro atualmente em Palmas/TO. Sou formada em arquitetura mas sempre tive interesse por tecnologia. Atualmente, tenho estudado para minha transição de carreira almejando uma primeira oportunidade para trabalhar com Front-end!
 
 No momento ingressei em uma graduação em Análise e Desenvolvimento de Sistemas e tenho estudado Java, Angular, Python e Django.
 No futuro pretendo estudar React e MySQL.
