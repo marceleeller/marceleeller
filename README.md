@@ -5,7 +5,7 @@
 🎓 &nbsp;Estudo Análise e Desenvolvimento de Sistemas na <a href="https://www.unitins.br/nPortal/" target="_blank" >Unitins</a>\
 💻 &nbsp;Estudei na <a href="https://imatech.io/programas/sharp-coders" target="_blank">SharpCoders</a> e na <a href="https://www.dio.me" target="_blank">DIO</a>\
 💬 &nbsp;Tenho inglês avançado\
-🎵 &nbsp;Toco flauta transversal, jogo um lolzinho e amo cozinhar!\
+🎵 &nbsp;Toco flauta transversal, jogo um lolzinho e amo cozinhar!
 
 
 ## Conecte-se comigo
