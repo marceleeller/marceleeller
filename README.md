@@ -3,7 +3,7 @@
 💡 &nbsp;De uma arquiteta apaixonada por explorar o mundo digital para uma <strong>desenvolvedora Fullstack.</strong>\
 🌟 &nbsp;Sempre fui fascinada em mergulhar no universo digital, seja através de jogos ou criando ilustrações, buscando constantemente aventuras e exercendo minha criatividade.\
 🎓 &nbsp;Estudo Análise e Desenvolvimento de Sistemas na <a href="https://www.unitins.br/nPortal/" target="_blank" >Unitins</a>\
-💻 &nbsp;Estudei na <a href="https://imatech.io/programas/sharp-coders" target="_blank">SharpCoders</a> e na <a href="https://www.dio.me" target="_blank">DIO</a>\
+💻 &nbsp;Trabalho como Programadora Fullstack na MXM-Sistemas\
 💬 &nbsp;Tenho inglês avançado\
 🎵 &nbsp;Toco flauta transversal, jogo um lolzinho e amo cozinhar!
 
